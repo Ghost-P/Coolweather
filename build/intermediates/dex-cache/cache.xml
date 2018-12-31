@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hua/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_1e55063733e0434b96a65f44732e94fe87a5174a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/d3e7b545208ff15063ec65404bb5696b7aa3e18e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_4bbb78064b4b8c0b9f367ce249d5dc2305bb1582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/285a56efe732c328c5c9a1736fe7fde927bcf0c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_90b8ff38ff7f340f094a5ec3bd277699111847a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/285a56efe732c328c5c9a1736fe7fde927bcf0c0/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_37e1f0e53f2847fc31442eab1cfa210b8a4b6741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/b1f364def0bf110f367786fdbe57b811349798d4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_889367472be13689107ddc401425e60805ab673f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49df0c5b239df38d865bb28b5e4edc4f6a36045e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/okio-1.9.0_a097db1236fa724ae65fa41ae89d3c8d1d66a465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/d3e7b545208ff15063ec65404bb5696b7aa3e18e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dd1ee24935536ce3838ee23d655118c3005f87f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_b405e5964c7d6c66e1a0400388867f7810c891ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/717f33153c6bc5b99957694572848b212b69fa4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_666a10a35b13c1dbf78a268e50fff432600f18d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/0b891375e8e8d39d5f2f1aa7206f799bb9e687ff/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_55687b9efb930644be34fed90ddd98ecc79822b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/gson-2.7_3f4a5b0e3615d400407b11f071d7faa3ba33a129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/0b891375e8e8d39d5f2f1aa7206f799bb9e687ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_260318a9a5ef04eabca7a2004cd0fadbc227ac6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/glide-3.7.0_126eafed86d47b60263fbe2a8fc47a2ec6d78473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/c4a7e46dbfdc9b7e028f2bbe4307d87fe790c69a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a24b1b000b211eabfa13b5834c059818bc98fd5">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_1287700e33f544a9ac298f5a0f03956bc52afbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/2542920cfd378f94628f0bce54404dfadf840ed5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48906743f63a633ee46a0e8fd9777ef237082af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/2542920cfd378f94628f0bce54404dfadf840ed5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_94deb4b8bf8af9378fbff83a51f2f1983b78a7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/f81c240a3507fa3fe266334a94a3c20fee4563d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_f3fbe963dffa5754cc8a1259c206f11c545911ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/81448121b4f1d8be58eacf8b89258ca13e7ba626/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_ffb6ac73a38dadb09976a80a0d5af05f0e76c879.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb5018fa725f194c318560d47ee9f94374bbcb53">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32cb1518e36f57c57dea2bee516c9e9c32126db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/b1f364def0bf110f367786fdbe57b811349798d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_616339626c6d9a9ba37ae372952d144935fa30d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hua/.android/build-cache/a6116a645b3596e10707ecdd9d15377f8a10cdfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/hua/Documents/Android/CoolWeather/app/build/intermediates/pre-dexed/debug/classes_1343f7c91b46b6d6d9b1b90b976da2a4e32aece7.jar" />
+    </item>
+
+</items>
